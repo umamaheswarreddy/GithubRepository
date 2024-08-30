@@ -1,0 +1,6 @@
+com/example/githubrepository/repository/GithubRepositoryRepository.class
+com/example/githubrepository/GithubrepositoryApplication.class
+com/example/githubrepository/service/RepositoryService.class
+com/example/githubrepository/controller/RepositoryController.class
+com/example/githubrepository/model/GithubRepository.class
+com/example/githubrepository/config/RestTemplateConfig.class
